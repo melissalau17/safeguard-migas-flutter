@@ -3,3 +3,10 @@
 {"logTime": "0416/155325", {"lineNo":0,"logLevel":2,"message":"MaybeWaitForPrefsToSync: Waiting for prefs to sync.","source":"Workspace Migration","timestamp":"2026-04-16T15:53:25.390Z"}}
 {"logTime": "0416/155325", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-04-16T15:53:25.390Z"}}
 {"logTime": "0416/155347", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-04-16T15:53:47.238Z"}}
+{"logTime": "0502/201542", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-02T20:15:42.664Z"}}
+{"logTime": "0502/201542", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-02T20:15:42.665Z"}}
+{"logTime": "0502/201542", {"lineNo":0,"logLevel":2,"message":"MaybeWaitForPrefsToSync: Waiting for prefs to sync.","source":"Workspace Migration","timestamp":"2026-05-02T20:15:42.665Z"}}
+{"logTime": "0502/201542", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-02T20:15:42.666Z"}}
+{"logTime": "0502/202042", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-02T20:20:42.674Z"}}
+{"logTime": "0502/202042", {"lineNo":0,"logLevel":4,"message":"LogError: Migrate_MaybeHavePrefs timed out","source":"Workspace Migration","timestamp":"2026-05-02T20:20:42.677Z"}}
+{"logTime": "0502/202313", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-02T20:23:13.769Z"}}
