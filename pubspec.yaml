@@ -1,0 +1,16 @@
+
+name: safeguard_migas
+description: SafeGuard Migas Flutter App
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  provider: ^6.0.5
+
+flutter:
+  uses-material-design: true
